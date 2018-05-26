@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LifeSearcher</string>
+
+    <string name="Lookingforlife">Looking for a Life</string>
 </resources>
